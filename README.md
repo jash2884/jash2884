@@ -71,8 +71,8 @@ focus_areas:
 
 | 💼 Role | 🏢 Company | 📅 When | 🏅 Impact |
 |:--|:--|:--|:--|
-| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present | 11 / 14 benchmark tasks accepted |
-| 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | Jul 2026 – Aug 2026 | 6 / 6 tasks accepted in one month |
+| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present | Benchmark tasks for frontier coding agents (Sentinel, Terminal-Bench 3) |
+| 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | Jul 2026 – Aug 2026 | Terminal-Bench 2 tasks: Docker envs, oracles & verifiers |
 | 🧠 **SDE Intern** (AI evaluation) | Xelron AI | Feb 2026 – Jun 2026 | LLM evaluation & prompt engineering |
 | ⚛️ **Full-Stack Developer Intern** | Flitzen Technologies UK | May 2025 – Jul 2025 | Led a golf competition platform build |
 
