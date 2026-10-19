@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jash2884&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/jash2884.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&logo=github&logoColor=white" alt="Profile Views" />
   <a href="https://linkedin.com/in/jash-parmar-7973b2255"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://jashparmar.com"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://codolio.com/profile/jashhh"><img src="https://img.shields.io/badge/Codolio-Profile-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
@@ -48,9 +48,9 @@ focus_areas:
 
 <div align="center">
 
-| 🧪 **17 / 20** | 🧠 **650+** | 🚀 **10+** |
+| 🧪 **60+** | 🧠 **650+** | 🚀 **10+** |
 |:--:|:--:|:--:|
-| AI benchmark tasks accepted<br/><sub>Terminal-Bench 2 · Project Sentinel Ultra</sub> | DSA problems solved<br/><sub>LeetCode · Code360</sub> | Full-stack & AI apps shipped<br/><sub>React · Node · Python · RAG</sub> |
+| AI benchmark tasks built<br/><sub>Terminal-Bench 2 · Sentinel · Terminal-Bench 3</sub> | DSA problems solved<br/><sub>LeetCode · Code360</sub> | Full-stack & AI apps shipped<br/><sub>React · Node · Python · RAG</sub> |
 
 </div>
 
