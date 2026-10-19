@@ -48,9 +48,9 @@ focus_areas:
 
 <div align="center">
 
-| 🧪 **60+** | 🧠 **650+** | 🚀 **10+** |
+| 🧪 **67+** | 🧠 **650+** | 🚀 **10+** |
 |:--:|:--:|:--:|
-| AI benchmark tasks accepted<br/><sub>Terminal-Bench 2 · Sentinel · Terminal-Bench 3</sub> | DSA problems solved<br/><sub>LeetCode · Code360</sub> | Full-stack & AI apps shipped<br/><sub>React · Node · Python · RAG</sub> |
+| AI benchmark tasks accepted<br/><sub>Xelron · Terminal-Bench 2 · Sentinel</sub> | DSA problems solved<br/><sub>LeetCode · Code360</sub> | Full-stack & AI apps shipped<br/><sub>React · Node · Python · RAG</sub> |
 
 </div>
 
@@ -71,8 +71,8 @@ focus_areas:
 
 | 💼 Role | 🏢 Company | 📅 When | 🏅 Impact |
 |:--|:--|:--|:--|
-| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present | Benchmark tasks for frontier coding agents (Sentinel, Terminal-Bench 3) |
-| 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | Jul 2026 – Aug 2026 | Terminal-Bench 2 tasks: Docker envs, oracles & verifiers |
+| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present | 11 / 14 Sentinel benchmark tasks accepted |
+| 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | Jul 2026 – Aug 2026 | 6 / 6 Terminal-Bench 2 tasks accepted in one month |
 | 🧠 **SDE Intern** (AI evaluation) | Xelron AI | Feb 2026 – Jun 2026 | 50+ benchmark tasks accepted (Terminus, Finch) |
 | ⚛️ **Full-Stack Developer Intern** | Flitzen Technologies UK | May 2025 – Jul 2025 | Led a golf competition platform build |
 
