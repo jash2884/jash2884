@@ -50,7 +50,7 @@ focus_areas:
 
 | 🧪 **60+** | 🧠 **650+** | 🚀 **10+** |
 |:--:|:--:|:--:|
-| AI benchmark tasks built<br/><sub>Terminal-Bench 2 · Sentinel · Terminal-Bench 3</sub> | DSA problems solved<br/><sub>LeetCode · Code360</sub> | Full-stack & AI apps shipped<br/><sub>React · Node · Python · RAG</sub> |
+| AI benchmark tasks accepted<br/><sub>Terminal-Bench 2 · Sentinel · Terminal-Bench 3</sub> | DSA problems solved<br/><sub>LeetCode · Code360</sub> | Full-stack & AI apps shipped<br/><sub>React · Node · Python · RAG</sub> |
 
 </div>
 
@@ -73,7 +73,7 @@ focus_areas:
 |:--|:--|:--|:--|
 | 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present | Benchmark tasks for frontier coding agents (Sentinel, Terminal-Bench 3) |
 | 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | Jul 2026 – Aug 2026 | Terminal-Bench 2 tasks: Docker envs, oracles & verifiers |
-| 🧠 **SDE Intern** (AI evaluation) | Xelron AI | Feb 2026 – Jun 2026 | LLM evaluation & prompt engineering |
+| 🧠 **SDE Intern** (AI evaluation) | Xelron AI | Feb 2026 – Jun 2026 | 50+ benchmark tasks accepted (Terminus, Finch) |
 | ⚛️ **Full-Stack Developer Intern** | Flitzen Technologies UK | May 2025 – Jul 2025 | Led a golf competition platform build |
 
 </div>
