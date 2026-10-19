@@ -44,16 +44,37 @@ focus_areas:
 
 <br clear="both"/>
 
+## ⚡ Highlights
+
+<div align="center">
+
+| 🧪 **17 / 20** | 🧠 **650+** | 🚀 **10+** |
+|:--:|:--:|:--:|
+| AI benchmark tasks accepted<br/><sub>Terminal-Bench 2 · Project Sentinel Ultra</sub> | DSA problems solved<br/><sub>LeetCode · Code360</sub> | Full-stack & AI apps shipped<br/><sub>React · Node · Python · RAG</sub> |
+
+</div>
+
+<br/>
+
+## 🔭 Currently
+
+- 🤖 Designing benchmark tasks that frontier AI coding agents can't shortcut, with Docker environments, oracle solutions and hidden verifiers
+- 🛠️ Building full-stack side projects with React, TypeScript and Node.js
+- 🌱 Sharpening DSA and system design
+- 💼 Open to **Software Engineer**, **Full-Stack** and **AI Evaluation** roles
+
+<br/>
+
 ## 🌟 Experience Journey
 
 <div align="center">
 
-| 💼 Role | 🏢 Company | 📅 When |
-|:--|:--|:--|
-| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present |
-| 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | 2026 |
-| 🧠 **SDE Intern** (AI evaluation) | Xelron AI | Feb 2026 – Jun 2026 |
-| ⚛️ **Full-Stack Developer Intern** | Flitzen Technologies UK | May 2025 – Jul 2025 |
+| 💼 Role | 🏢 Company | 📅 When | 🏅 Impact |
+|:--|:--|:--|:--|
+| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present | 11 / 14 benchmark tasks accepted |
+| 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | Jul 2026 – Aug 2026 | 6 / 6 tasks accepted in one month |
+| 🧠 **SDE Intern** (AI evaluation) | Xelron AI | Feb 2026 – Jun 2026 | LLM evaluation & prompt engineering |
+| ⚛️ **Full-Stack Developer Intern** | Flitzen Technologies UK | May 2025 – Jul 2025 | Led a golf competition platform build |
 
 </div>
 
@@ -65,12 +86,19 @@ focus_areas:
 
 | Project | What it does | Built with |
 |:--|:--|:--|
+| [**SlotWise**](https://github.com/jash2884/slotwise) | Mentor scheduling with timezone-aware slots, idempotent bookings and DB-enforced no double-booking · [Live](https://slotwise-jash.artfulswan33.chatgpt.site) | React · TypeScript · Cloudflare Workers · D1 · GitHub Actions |
 | [**Workflow Builder**](https://github.com/jash2884/workflow-builder) | Node-based visual editor for chaining LLM and media steps · [Live](https://workflow-builder-tawny-rho.vercel.app/) | React · TypeScript · React Flow · Zustand · Vitest |
 | [**Smart Screen Recorder**](https://github.com/jash2884/LLM-powered-Screen-Recorder) | Search your screen history in plain English with OCR + RAG | Python · OpenCV · Tesseract · ChromaDB · Gemini |
 | [**PatternSense**](https://github.com/jash2884/patternsense) | Finds the DSA pattern behind a coding problem and explains the approach | React Native · Expo · Express · Gemini |
 | [**BookLeaf Support Portal**](https://github.com/jash2884/bookleaf-support-portal) | Author portal + admin support desk with AI triage and AI-drafted replies | Express · Prisma · Postgres · React · SSE |
-| [**Music Player**](https://github.com/jash2884/music-player) | React Native music app with queue management and a mini player | React Native · Expo |
 | [**URL Shortener**](https://github.com/jash2884/url-shortener) | Validated short links with persistent storage · [Live](https://url-shortener-rouge-nine.vercel.app/) | Node.js · Express · PostgreSQL |
+
+<br/>
+
+<a href="https://github.com/jash2884/slotwise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=slotwise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="slotwise" /></a>
+<a href="https://github.com/jash2884/bookleaf-support-portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=bookleaf-support-portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="bookleaf-support-portal" /></a>
+<a href="https://github.com/jash2884/workflow-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=workflow-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="workflow-builder" /></a>
+<a href="https://github.com/jash2884/LLM-powered-Screen-Recorder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=LLM-powered-Screen-Recorder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="LLM-powered-Screen-Recorder" /></a>
 
 </div>
 
@@ -134,14 +162,8 @@ focus_areas:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jash2884&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jash2884&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jash2884&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="Streak Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jash2884&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD" alt="Top Languages" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=jash2884&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="Streak Stats" />
 </div>
 
 <br/>
@@ -158,14 +180,6 @@ focus_areas:
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=jash2884&theme=discord&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-</div>
-
-<br/>
-
 ## 🎯 Problem Solving
 
 <div align="center">
@@ -176,14 +190,6 @@ focus_areas:
 | Code360 (Coding Ninjas) | 481+ problems |
 | All profiles | [Codolio](https://codolio.com/profile/jashhh) |
 
-</div>
-
-<br/>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
