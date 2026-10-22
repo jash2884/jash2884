@@ -86,6 +86,7 @@ focus_areas:
 
 | Project | What it does | Built with |
 |:--|:--|:--|
+| [**AgentProof**](https://github.com/jash2884/agentproof) | Release-evaluation SaaS for AI agents: policy checks on agent traces, version comparison and a CI gate that blocks unsafe releases · [Live](https://agentproof.jashparmar.com) | TypeScript · Cloudflare Workers · D1 · Transformers.js · GitHub Actions |
 | [**SlotWise**](https://github.com/jash2884/slotwise) | Mentor scheduling with timezone-aware slots, idempotent bookings and DB-enforced no double-booking · [Live](https://slotwise.jashparmar.com) | React · TypeScript · Cloudflare Workers · D1 · GitHub Actions |
 | [**Workflow Builder**](https://github.com/jash2884/workflow-builder) | Node-based visual editor for chaining LLM and media steps · [Live](https://workflow-builder-tawny-rho.vercel.app/) | React · TypeScript · React Flow · Zustand · Vitest |
 | [**Smart Screen Recorder**](https://github.com/jash2884/LLM-powered-Screen-Recorder) | Search your screen history in plain English with OCR + RAG | Python · OpenCV · Tesseract · ChromaDB · Gemini |
