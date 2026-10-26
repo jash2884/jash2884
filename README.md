@@ -59,7 +59,7 @@ focus_areas:
 ## 🔭 Currently
 
 - 🤖 Designing benchmark tasks that frontier AI coding agents can't shortcut, with Docker environments, oracle solutions and hidden verifiers
-- 🛠️ Building full-stack side projects with React, TypeScript and Node.js
+- 🛠️ Shipping full-stack + AI side projects on Cloudflare, most recently [Chat Wrapped](https://wrapped.jashparmar.com)
 - 🌱 Sharpening DSA and system design
 - 💼 Open to **Software Engineer**, **Full-Stack** and **AI Evaluation** roles
 
@@ -86,6 +86,7 @@ focus_areas:
 
 | Project | What it does | Built with |
 |:--|:--|:--|
+| [**Chat Wrapped**](https://github.com/jash2884/chat-wrapped) | Spotify Wrapped for WhatsApp & Telegram chats: stats, awards and an AI verdict, analysed on-device so messages never leave the browser · [Live](https://wrapped.jashparmar.com) | JavaScript · Web Workers · Cloudflare Workers · Gemini + Workers AI |
 | [**AgentProof**](https://github.com/jash2884/agentproof) | Release-evaluation SaaS for AI agents: policy checks on agent traces, version comparison and a CI gate that blocks unsafe releases · [Live](https://agentproof.jashparmar.com) | TypeScript · Cloudflare Workers · D1 · Transformers.js · GitHub Actions |
 | [**SlotWise**](https://github.com/jash2884/slotwise) | Mentor scheduling with timezone-aware slots, idempotent bookings and DB-enforced no double-booking · [Live](https://slotwise.jashparmar.com) | React · TypeScript · Cloudflare Workers · D1 · GitHub Actions |
 | [**Workflow Builder**](https://github.com/jash2884/workflow-builder) | Node-based visual editor for chaining LLM and media steps · [Live](https://workflow-builder-tawny-rho.vercel.app/) | React · TypeScript · React Flow · Zustand · Vitest |
@@ -96,10 +97,11 @@ focus_areas:
 
 <br/>
 
+<a href="https://github.com/jash2884/chat-wrapped"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=chat-wrapped&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="chat-wrapped" /></a>
 <a href="https://github.com/jash2884/slotwise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=slotwise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="slotwise" /></a>
 <a href="https://github.com/jash2884/bookleaf-support-portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=bookleaf-support-portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="bookleaf-support-portal" /></a>
 <a href="https://github.com/jash2884/workflow-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=workflow-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="workflow-builder" /></a>
-<a href="https://github.com/jash2884/LLM-powered-Screen-Recorder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jash2884&repo=LLM-powered-Screen-Recorder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&description_lines_count=3" width="400" alt="LLM-powered-Screen-Recorder" /></a>
+
 
 </div>
 
