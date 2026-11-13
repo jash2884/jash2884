@@ -27,7 +27,7 @@
 ```yaml
 name: Jash Parmar
 location: India 🇮🇳
-current_role: Advanced AI Engineer @ Crossing Hurdles
+current_role: Software Developer @ Flitzen Technologies
 education: B.Tech CSE @ IIIT Kota (2022 - 2026)
 
 what_i_do:
@@ -58,7 +58,7 @@ focus_areas:
 
 ## 🔭 Currently
 
-- 🤖 Designing benchmark tasks that frontier AI coding agents can't shortcut, with Docker environments, oracle solutions and hidden verifiers
+- 💻 Working full-time as a **Software Developer at Flitzen**, shipping client websites and business web apps (PHP, CodeIgniter, JavaScript)
 - 🛠️ Shipping full-stack + AI side projects on Cloudflare, most recently [Chat Wrapped](https://wrapped.jashparmar.com)
 - 🌱 Sharpening DSA and system design
 - 💼 Open to **Software Engineer**, **Full-Stack** and **AI Evaluation** roles
@@ -71,7 +71,8 @@ focus_areas:
 
 | 💼 Role | 🏢 Company | 📅 When | 🏅 Impact |
 |:--|:--|:--|:--|
-| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Present | 11 / 14 Sentinel benchmark tasks accepted |
+| 💻 **Software Developer** | Flitzen Technologies UK | Oct 2026 – Present | 13+ client websites rebuilt, features on live ERP & CRM apps |
+| 🤖 **Advanced AI Engineer** | Crossing Hurdles | Jul 2026 – Oct 2026 | 11 / 14 Sentinel benchmark tasks accepted |
 | 🧪 **LLM Trainer** (Terminal-Bench 2) | Handshake AI | Jul 2026 – Aug 2026 | 6 / 6 Terminal-Bench 2 tasks accepted in one month |
 | 🧠 **SDE Intern** (AI evaluation) | Xelron AI | Feb 2026 – Jun 2026 | 50+ benchmark tasks accepted (Terminus, Finch) |
 | ⚛️ **Full-Stack Developer Intern** | Flitzen Technologies UK | May 2025 – Jul 2025 | Led a golf competition platform build |
