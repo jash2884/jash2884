@@ -59,9 +59,9 @@ focus_areas:
 ## 🔭 Currently
 
 - 💻 Working full-time as a **Software Developer at Flitzen**, shipping client websites and business web apps (PHP, CodeIgniter, JavaScript)
-- 🛠️ Shipping full-stack + AI side projects on Cloudflare, most recently [Chat Wrapped](https://wrapped.jashparmar.com)
+- 🛠️ Shipping full-stack + AI side projects on Cloudflare, most recently a 3D portfolio at [jashparmar.com](https://jashparmar.com) ([source](https://github.com/jash2884/jashparmar.com))
 - 🌱 Sharpening DSA and system design
-- 💼 Open to **Software Engineer**, **Full-Stack** and **AI Evaluation** roles
+- 💼 Open to **Software Engineer** and **Forward-Deployed Engineer** roles, plus Full-Stack and AI Evaluation
 
 <br/>
 
@@ -87,10 +87,13 @@ focus_areas:
 
 | Project | What it does | Built with |
 |:--|:--|:--|
+| [**jashparmar.com**](https://github.com/jash2884/jashparmar.com) | My portfolio: one kit of glossy parts builds a ring of project screens, then builds each project and takes it apart to show how it works · [Live](https://jashparmar.com) | JavaScript · three.js · GLSL · cannon-es |
+| [**Drape**](https://github.com/jash2884/drape) | Shazam for outfits: screenshot a look and it finds every piece, the exact item and cheaper lookalikes, with the ML running on the phone · [Live](https://drape.jashparmar.com) | JavaScript · Transformers.js · WebAssembly · Cloudflare Workers + D1 |
 | [**Chat Wrapped**](https://github.com/jash2884/chat-wrapped) | Spotify Wrapped for WhatsApp & Telegram chats, analysed on-device: 20-slide story, a title for every member, word search, guess-who quiz; installable PWA that opens from WhatsApp's share menu · [Live](https://wrapped.jashparmar.com) | JavaScript · Web Workers · PWA · Cloudflare Workers + D1 · Gemini + Workers AI |
 | [**Stepwise**](https://github.com/jash2884/stepwise) | 62 step-by-step visualisers with live pseudocode + variables, Three.js 3D views, an AI tutor on every step and auto-checked practice: DSA, OS, DBMS, Networks, Theory of Computation & Compilers · [Live](https://stepwise.jashparmar.com) | JavaScript · Three.js · SVG · Workers AI · Cloudflare |
 | [**AgentProof**](https://github.com/jash2884/agentproof) | Release-evaluation SaaS for AI agents: policy checks on agent traces, version comparison and a CI gate that blocks unsafe releases · [Live](https://agentproof.jashparmar.com) | TypeScript · Cloudflare Workers · D1 · Transformers.js · GitHub Actions |
 | [**SlotWise**](https://github.com/jash2884/slotwise) | Mentor scheduling with timezone-aware slots, idempotent bookings and DB-enforced no double-booking · [Live](https://slotwise.jashparmar.com) | React · TypeScript · Cloudflare Workers · D1 · GitHub Actions |
+| [**Matchday Brain**](https://github.com/jash2884/matchday-brain) | Football, cricket and NFL predictions from tuned Elo models, with every prediction scored in public · [Live](https://matchday.jashparmar.com) | TypeScript · Cloudflare Workers · GitHub Actions |
 | [**Workflow Builder**](https://github.com/jash2884/workflow-builder) | Node-based visual editor for chaining LLM and media steps · [Live](https://workflow-builder-tawny-rho.vercel.app/) | React · TypeScript · React Flow · Zustand · Vitest |
 | [**Smart Screen Recorder**](https://github.com/jash2884/LLM-powered-Screen-Recorder) | Search your screen history in plain English with OCR + RAG | Python · OpenCV · Tesseract · ChromaDB · Gemini |
 | [**PatternSense**](https://github.com/jash2884/patternsense) | Finds the DSA pattern behind a coding problem and explains the approach | React Native · Expo · Express · Gemini |
